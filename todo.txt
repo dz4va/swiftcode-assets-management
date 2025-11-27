@@ -1,0 +1,26 @@
+- add payment start for the debt
+- we should visually be able to see if a debt is connected to a real estate asset
+- with that we should be able to calculate how much interest have we paid for the real estate asset
+- what's the current valuation and how much total have we paid for the asset
+- renting should have 2 values one accumulated rent and another for how much it's rented per month
+- we can add AI chatbot so that we can integrate all the data and ask questions about it
+- top assets card can change a little too, so that wea re seeing the monthly cash inflow, from all assets and top renting out assets
+- add an ability to share this data with another person via email so that we can both manage everything
+- we should have an ability to share our asseset management dashboard with multiple people in case of company shareholder are interested so that 
+   they can add assets and view all of their company assets
+- add an ability to add monlthy income and maybe expenses too, but not sure about the expenses how should they work
+- add an ability to have integrations with API's such as stock and gold prices so that we can see how much our assets are worth realtime
+- add an ability to add gold silver and other assets that are not real estate and indicate their weight 
+  in grams or karats should have another section called jewellery not onlny collectibles
+- we can also add a flowing animation on the net worth card for like the left side green progress bar for example
+- add an ability to sell a any assets, and generate and add cash from there to our total net worth after that happens and remove the item from our
+  assets so to speak, for example if we sell a car or a real estate property,
+- add an ability to make debt repayment projections on how much could we pay to accelerate the process based on number of months
+  that we have left
+- add a quick edit abilities for a lot of these assets kind of like automations think of them 
+- add business asset management stuff, how much income do we have per month, total generated, monthly expenses, employee expenses,
+  bills that need to be paid per month, how much total have we paid for the business what's our share, how much rent are paying
+  what's the total monthly revenue pure revenue and stuff, how many employees do we have as of now, names and surnames and how much
+  are we paying them per month, how much total have we paid for the business, when did the employees start working and how much
+  have we paid for them total per person, their personalities too we can add that in
+- figure out the best landing page sections
